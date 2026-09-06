@@ -1,0 +1,104 @@
+{
+  "exhibition": {
+    "id": "syrpetro-2027",
+    "name": "SYRPETRO",
+    "fullName": "Syria International Petroleum, Energy & Mineral Wealth Expo",
+    "organizer": "Meshhadani International Group",
+    "year": 2027,
+    "totalHalls": 3,
+    "totalBooths": 120,
+    "totalArea": 5300
+  },
+  "halls": [
+    {
+      "id": "hall-1",
+      "name": "قاعة 1",
+      "nameEn": "Hall 1",
+      "totalArea": 1500,
+      "totalBooths": 35,
+      "features": [
+        "Lecture Hall (208 m²)",
+        "VIP Lounge (32 m²)",
+        "B2B Area (56 m²)",
+        "Prayer Rooms",
+        "Emergency Medical Station"
+      ],
+      "keySponsors": [
+        {
+          "name": "ENOC",
+          "stand": "G1",
+          "area": 90,
+          "tier": "International Supporter"
+        },
+        {
+          "name": "Novaterra Energy & ConocoPhillips",
+          "stand": "H1/H2",
+          "area": 98,
+          "tier": "Platinum Supporter"
+        }
+      ]
+    },
+    {
+      "id": "hall-2",
+      "name": "قاعة 2",
+      "nameEn": "Hall 2",
+      "totalArea": 1800,
+      "totalBooths": 40,
+      "features": [
+        "Lubricants Zone",
+        "Energy Sector",
+        "Industrial Machinery",
+        "B2B Area (88 m²)",
+        "Job Opportunities Booth"
+      ],
+      "keySponsors": [
+        {
+          "name": "Oscar Lubricants",
+          "stand": "X1",
+          "area": 77,
+          "tier": "Platinum Sponsor"
+        },
+        {
+          "name": "LUKOIL",
+          "stand": "T1",
+          "area": 56,
+          "tier": "International Oil Corp"
+        }
+      ]
+    },
+    {
+      "id": "hall-25",
+      "name": "قاعة 25",
+      "nameEn": "Hall 25",
+      "totalArea": 2000,
+      "totalBooths": 45,
+      "features": [
+        "Main Registration & Operations",
+        "Press Room",
+        "National Energy Anchor",
+        "International Supporters",
+        "Services & Logistics"
+      ],
+      "keySponsors": [
+        {
+          "name": "Syrian Petroleum Holding (SPC)",
+          "stand": "C2",
+          "area": 280,
+          "tier": "National Energy Anchor"
+        },
+        {
+          "name": "UCC Holding",
+          "stand": "D2",
+          "area": 192,
+          "tier": "International Supporter"
+        },
+        {
+          "name": "Chamco Petroleum",
+          "stand": "D1",
+          "area": 112,
+          "tier": "Petroleum Corporation"
+        }
+      ]
+    }
+  ]
+}
